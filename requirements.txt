@@ -2,3 +2,9 @@ pandas
 matplotlib
 seaborn
 numpy
+jupyterlab
+ipykernel
+kiteconnect
+fastapi
+uvicorn
+python-dotenv
